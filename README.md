@@ -1,6 +1,8 @@
 18xx Transcript Database
 ========================
 
+![GitHub Tag](https://img.shields.io/github/v/tag/codePascal/records18xx)
+
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/codePascal/records18xx/refs/heads/first_version/badges/1817.json)
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/codePascal/records18xx/refs/heads/first_version/badges/1830.json)
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/codePascal/records18xx/refs/heads/first_version/badges/1889.json)
