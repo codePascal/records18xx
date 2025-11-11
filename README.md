@@ -1,6 +1,10 @@
 18xx Transcript Database
 ========================
 
+![Endpoint Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/codePascal/records18xx/refs/heads/first_version/badges/1817.json)
+![Endpoint Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/codePascal/records18xx/refs/heads/first_version/badges/1830.json)
+![Endpoint Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/codePascal/records18xx/refs/heads/first_version/badges/1889.json)
+
 A repository that hosts game transcripts from [18xx.games](https://18xx.games/).
 
 Features
